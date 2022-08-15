@@ -19,7 +19,7 @@
 - The plot files function as a tool for plotting the results and sensitivity results.
 - Taxi_env.py captures the environment and dynamics of the model.
 - Walls.py & Goals.py help importing the walls and goals in the environment.
-- The data folder holds the steps, laps, episodes of various runs with different settings (sensitivity runs).
+- The data folder holds the episodes, steps, laps of various runs with different settings (sensitivity runs).
 
 ## Resources
 - Code for environment dynamics was inspired from [github](https://github.com/CodeAndAction/DDQN-Car-Racing)
