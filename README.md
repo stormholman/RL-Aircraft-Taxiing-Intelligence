@@ -6,7 +6,8 @@
 - I have implemented this using 2 Reinforcement Learning algorithms:
     1. Proximal Policy Optimization (PPO)
     2. Deep Q-Network (DQN)
-- You can see a demo of this application [here](https://youtu.be/YSKC1OfMABE).
+- You can see a demo of this application [here](https://youtu.be/YSKC1OfMABE). Or scan the QR code:
+<img src="https://user-images.githubusercontent.com/76053813/185162807-10906495-5fad-4b91-9cc5-4bdf70dcc10b.jpeg"  width="200" height="200">
 
 ## Briefing the main application:
 - Run RL_agent_train.py for traing/executing the model.
